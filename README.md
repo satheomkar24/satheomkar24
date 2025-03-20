@@ -22,11 +22,11 @@ Capable of collaborating effectively with cross-functional teams to deliver high
 <!----------------------------------- Profile View Section ----------------------------------->
 
 <p align="left">
-    <a href="https://github.com/satheomkar143">
-        <img src="https://komarev.com/ghpvc/?username=satheomkar143&label=Profile%20views&color=0e75b6&style=flat" alt="satheomkar143" />
+    <a href="https://github.com/satheomkar24">
+        <img src="https://komarev.com/ghpvc/?username=satheomkar24&label=Profile%20views&color=0e75b6&style=flat" alt="satheomkar24" />
     </a>
-    <a href="https://github.com/satheomkar143?tab=followers">
-        <img src="https://img.shields.io/github/followers/satheomkar143?label=Followers&style=social" alt="followers-count">
+    <a href="https://github.com/satheomkar24?tab=followers">
+        <img src="https://img.shields.io/github/followers/satheomkar24?label=Followers&style=social" alt="followers-count">
     </a>
 </p>
 <br>
@@ -105,8 +105,8 @@ Capable of collaborating effectively with cross-functional teams to deliver high
 <h2><i>My GitHub Stats</i></h2>
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=satheomkar143&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="satheomkar143" height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satheomkar143&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="satheomkar143" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=satheomkar24&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="satheomkar24" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satheomkar24&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="satheomkar24" height="139" />
 </p>
 <br>
 
