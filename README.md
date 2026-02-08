@@ -8,7 +8,7 @@
 <!----------------------------------- About Section ------------------------------------>
 
 <h3>
-    <i>- Motivated and skilled Software Developer with over 1 year of experience in both frontend and backend
+    <i>- Motivated and skilled Software Developer with over 2 year of experience in both frontend and backend
 development. Proven expertise in creating dynamic and responsive web applications using modern frameworks
 such as React, Vue.js, and Next.js. Experienced in backend development, contributing to robust and scalable server-
 side solutions. Adept at working on both in-house projects and client-facing solutions, with a strong focus on user
